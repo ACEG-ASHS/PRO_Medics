@@ -41,7 +41,7 @@ namespace Promedics
                             Display Summarized Outpatient Benefit Programs
                             Input Selected Program
                             Display Health Facilities with Available Selected Programs
-                            Display Selected Health Facility’s Location
+                            Display Selected Health Facility’s Location :D
                         Else If Input == 5 && Sex == F
                             Display Summarized Outpatient Benefit Programs
                             Input Selected Program
