@@ -1,6 +1,7 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -88,6 +89,11 @@ namespace Promedics
                     Console.WriteLine("RETURN TO SELECTION PAGE?");
                     Run = Console.ReadLine();
                         }
+
+                Console.Clear();
+                Console.WriteLine("THANK FOR USING PROMEDICS!");
+                Console.WriteLine(" - THE PROMEDICS TEAM");
+
             }
             
 
