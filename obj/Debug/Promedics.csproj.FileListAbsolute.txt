@@ -1,0 +1,7 @@
+C:\Users\PRO-12\Desktop\GALLENTES_Workspace\Promedics\bin\Debug\Promedics.exe.config
+C:\Users\PRO-12\Desktop\GALLENTES_Workspace\Promedics\bin\Debug\Promedics.exe
+C:\Users\PRO-12\Desktop\GALLENTES_Workspace\Promedics\bin\Debug\Promedics.pdb
+C:\Users\PRO-12\Desktop\GALLENTES_Workspace\Promedics\obj\Debug\Promedics.csproj.AssemblyReference.cache
+C:\Users\PRO-12\Desktop\GALLENTES_Workspace\Promedics\obj\Debug\Promedics.csproj.CoreCompileInputs.cache
+C:\Users\PRO-12\Desktop\GALLENTES_Workspace\Promedics\obj\Debug\Promedics.exe
+C:\Users\PRO-12\Desktop\GALLENTES_Workspace\Promedics\obj\Debug\Promedics.pdb
